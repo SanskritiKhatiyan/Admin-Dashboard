@@ -1,4 +1,4 @@
-This project is a admin dashboard app.
+This project is an admin dashboard app.
 
 Features included:
 
